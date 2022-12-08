@@ -62,11 +62,13 @@ const Main = () => {
     if (!apiKey) {
       const key = prompt("Please provide an api key for Dall-e API:");
       setApiKey(key || "");
+
+      return key;
     }
   };
 
   const loadNewQuestion = () => {
-    checkForApiKey();
+    const key = checkForApiKey();
     const prompt = generateQuestion();
 
     const body = {
@@ -79,7 +81,7 @@ const Main = () => {
       method: "POST",
       headers: {
         "Content-Type": "application/json",
-        Authorization: "Bearer " + apiKey,
+        Authorization: `Bearer ${apiKey || key}`,
       },
       body: JSON.stringify(body),
     })
