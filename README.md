@@ -1,6 +1,8 @@
 # Getting Started
 
 This is a quizz created on Forefront hackathon on 9.12.2022
+You can try the quizz here: [https://dalle-quizz.netlify.app](https://dalle-quizz.netlify.app).
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
