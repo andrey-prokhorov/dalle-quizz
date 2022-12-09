@@ -10,13 +10,13 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Example images
 
-![Screenshot 1](src\images\quiz-1.PNG)
+![Screenshot 1](https://raw.githubusercontent.com/andrey-prokhorov/dalle-quizz/main/src/images/quiz-1.PNG)
 
-![Screenshot 2](src\images\quiz-2.PNG)
+![Screenshot 2](https://raw.githubusercontent.com/andrey-prokhorov/dalle-quizz/main/src/images/quiz-2.PNG)
 
-![Screenshot 3](src\images\quiz-3.PNG)
+![Screenshot 3](https://raw.githubusercontent.com/andrey-prokhorov/dalle-quizz/main/src/images/quiz-3.PNG)
 
-![Screenshot 4](src\images\quiz-4.PNG)
+![Screenshot 4](https://raw.githubusercontent.com/andrey-prokhorov/dalle-quizz/main/src/images/quiz-4.PNG)
 
 ## Available Scripts
 
