@@ -40,7 +40,6 @@ export const people = [
   "Henry Ford",
   "Haile Selassie",
   "Joseph Stalin",
-  "Lord Baden Powell",
   "Michael Jordon",
   "Vladimir Lenin",
   "Ingrid Bergman",

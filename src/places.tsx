@@ -12,4 +12,12 @@ export const places = [
   "Jungle",
   "Sahara",
   "Malmö",
+  "Grand canyon",
+  "The Bahamas",
+  "on top of the Empire state building",
+  "North pool",
+  "India",
+  "Space",
+  "Moon",
+  "Mars",
 ];

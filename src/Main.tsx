@@ -95,7 +95,7 @@ const Main = () => {
       })
       .catch((error) => {
         console.error("Error:", error);
-        alert(error.message);
+        loadNewQuestion();
       });
   };
 
