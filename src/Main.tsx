@@ -40,8 +40,8 @@ const Main = () => {
     const randomPlace = places[getRandomInt(places.length)];
     const randomVerb = verbs[getRandomInt(verbs.length)];
 
-    const searchText = `${randomPerson} ${randomVerb} in ${randomPlace}`;
-    const questionText = `Who is ${randomVerb}  in ${randomPlace}?`;
+    const searchText = `${randomPerson} ${randomVerb} ${randomPlace}`;
+    const questionText = `Who is ${randomVerb} ${randomPlace}?`;
     const answersArray = [
       randomPerson,
       people[getRandomInt(people.length)],
