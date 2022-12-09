@@ -19,4 +19,5 @@ export const verbs = [
   "sleeping",
   "dancing hip hop",
   "sitting on toilet",
+  "playing piano",
 ];

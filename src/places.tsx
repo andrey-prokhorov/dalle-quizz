@@ -15,9 +15,10 @@ export const places = [
   "Grand canyon",
   "The Bahamas",
   "on top of the Empire state building",
-  "North pool",
+  "North Pole",
   "India",
   "Space",
   "Moon",
   "Mars",
+  "yellow submarine",
 ];
