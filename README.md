@@ -18,6 +18,12 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ![Screenshot 4](https://raw.githubusercontent.com/andrey-prokhorov/dalle-quizz/main/src/images/quiz-4.PNG)
 
+![Screenshot 5](https://raw.githubusercontent.com/andrey-prokhorov/dalle-quizz/main/src/images/quiz-5.PNG)
+
+![Screenshot 6](https://raw.githubusercontent.com/andrey-prokhorov/dalle-quizz/main/src/images/quiz-6.PNG)
+
+![Screenshot 7](https://raw.githubusercontent.com/andrey-prokhorov/dalle-quizz/main/src/images/quiz-7.PNG)
+
 ## Available Scripts
 
 In the project directory, you can run:
